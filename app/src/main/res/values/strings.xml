@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">volundr</string>
+    <string name="url">http://192.168.31.79/api</string>
+    <!-- <string name="url">http://volundr.ajatic.com/api</string> -->
+    <string name="app">Volundr</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="form">Formulario</string>
+    <string name="save">Guardar</string>
+    <string name="next">Siguiente</string>
+</resources>
